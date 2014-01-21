@@ -4,3 +4,9 @@
 node_modules
 
 coverage.html
+
+test/
+
+Makefile
+
+.travis.yml
