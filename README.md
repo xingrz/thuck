@@ -13,8 +13,8 @@ A super simple protocol that concats crushed chunks emit by a TCP socket.
 
 ## Installation
 
-```sh
-npm install thuck
+```
+$ npm install thuck
 ```
 
 
@@ -78,8 +78,8 @@ Please let me know your solution!
 
 ## Test
 
-```sh
-npm test
+```
+$ npm test
 ```
 
 
